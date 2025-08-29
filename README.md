@@ -43,3 +43,25 @@ cmake --build .
 
 # Run the game
 ./cosmic_terminal
+
+## 🌟 New Features in Multi-Language Edition
+
+### Supported Programming Languages:
+- **Python** 🐍: General purpose challenges
+- **C++** ⚡: Performance-critical algorithms  
+- **JavaScript** 📜: Web and async programming
+- **Java** ☕: OOP and enterprise patterns
+- **Rust** 🦀: Memory safety and systems programming
+- **Go** 🐹: Concurrency and networking
+
+### Cross-Platform Support:
+- **Native**: C++ terminal application
+- **Web**: WebAssembly browser version
+- **Mobile**: Future React Native integration
+
+### Advanced Features:
+- Real-time code execution sandbox
+- Multi-language interoperability challenges
+- Competitive programming timer
+- Code quality metrics analysis
+- GitHub integration for challenge sharing

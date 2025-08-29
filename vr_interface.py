@@ -1,4 +1,4 @@
-# VR/AR режим (прототип)
+# VR/AR режим (прототип) 
 class VRCodeInterface:
     def __init__(self):
         self.is_vr_mode = False

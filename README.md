@@ -1,6 +1,6 @@
 # 🚀 Cosmic Terminal
 
-A cross-language coding adventure game written in C++ and Python!
+A cross-language coding adventure game written in C++ and Python!!!!!!!!!!!!!!!
 
 ## 🌟 Overview
 
